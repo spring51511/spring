@@ -31,6 +31,6 @@ public class Ex01 {
 		System.out.println(list);
 		
 		// 213456789
-		// 11111
+		// 1111122222
 	}
 }
