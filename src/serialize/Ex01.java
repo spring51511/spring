@@ -29,5 +29,7 @@ public class Ex01 {
 		oos.close();
 		
 		System.out.println(list);
+		
+		// 213456789
 	}
 }
